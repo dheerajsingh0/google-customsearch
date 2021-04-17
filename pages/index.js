@@ -27,15 +27,16 @@ export default function Home() {
       <header className="flex w-full p-5 justify-between text-sm text-gray-700">
         {/* left */}
         <div className="flex  space-x-4 items-center">
-          <p className="link">About</p>
-          <p className="link">Store</p>
+          <a href="https://about.google" className="link">About</a>
+          <a href="https://store.google.com/in/?hl=en-GB" className="link">Store</a>
+          
         </div>
         {/* right */}
         <div className="flex space-x-4 items-center ">
-          <p className="link">Gmail</p>
-          <p className="link">Image</p>
+        <a href="https://mail.google.com/mail/" className="link">Gmail</a>
+          <a href="https://photos.google.com/?pageId=none" className="link">Image</a>
           {/* Icons */}
-          <ViewGridIcon className="h-10 w-10 p-2 animate-spin rounded-full cursor-pointer hover:bg-gray-100"/>
+          <ViewGridIcon className="h-10 w-10 p-2 animate-spin rounded-full cursor-pointer hover:bg-gray-100 hover:animate-none"/>
           <Avatar  url="https://scontent.fblr8-1.fna.fbcdn.net/v/t1.6435-9/132428238_3108656229458035_825116709791161565_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=2qldBuuj4CcAX8qw3B4&_nc_ht=scontent.fblr8-1.fna&oh=6d4b3c6f926aad0f4555a7e44f408f97&oe=6095713E"/>
         </div>
       </header>
