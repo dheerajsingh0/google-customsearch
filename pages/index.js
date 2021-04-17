@@ -1,6 +1,6 @@
-import Head from 'next/head'
-import Avatar from '../components/avatar'
-import{MicrophoneIcon,ViewGridIcon} from '@heroicons/react/solid'
+import Head from 'next/head';
+import Avatar from '../components/Avatar';
+import{MicrophoneIcon,ViewGridIcon} from '@heroicons/react/solid';
 import Image from "next/image";
 import {SearchIcon} from '@heroicons/react/outline'
 import Footer from '../components/Footer'
