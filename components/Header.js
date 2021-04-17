@@ -2,7 +2,7 @@ import {useRouter} from "next/router"
 import Image from "next/image";
 import { useRef } from "react";
 import { MicrophoneIcon, SearchIcon, XIcon } from "@heroicons/react/solid";
-import Avatar from "./avatar";
+import Avatar from "./Avatar";
 import HeaderOptions from "./HeaderOptions";
 const Header = () => {
     const router =useRouter();
