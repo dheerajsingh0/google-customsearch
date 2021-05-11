@@ -37,7 +37,7 @@ export default function Home() {
           <a href="https://photos.google.com/?pageId=none" className="link">Image</a>
           {/* Icons */}
           <ViewGridIcon className="h-10 w-10 p-2 animate-spin rounded-full cursor-pointer hover:bg-gray-100 hover:animate-none"/>
-          <Avatar  url="https://scontent.fblr8-1.fna.fbcdn.net/v/t1.6435-9/132428238_3108656229458035_825116709791161565_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=2qldBuuj4CcAX8qw3B4&_nc_ht=scontent.fblr8-1.fna&oh=6d4b3c6f926aad0f4555a7e44f408f97&oe=6095713E"/>
+          <Avatar  url="https://scontent.fblr8-1.fna.fbcdn.net/v/t1.6435-1/cp0/p50x50/132428238_3108656229458035_825116709791161565_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=7206a8&_nc_ohc=SzM_WgoLlIsAX9EsUtN&_nc_ht=scontent.fblr8-1.fna&tp=27&oh=de105c7a880365f6d4028e2630855c68&oe=60C18101"/>
         </div>
       </header>
       {/* body */}
