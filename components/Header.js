@@ -36,7 +36,7 @@ const Header = () => {
                <SearchIcon className="h-5 text-blue-500 hidden sm:inline-flex" onClick="{search}" />
                <button hidden type="submit" onClick={search}>Search</button>
             </form>
-            <Avatar className="ml-auto" url="https://scontent.fblr8-1.fna.fbcdn.net/v/t1.6435-9/132428238_3108656229458035_825116709791161565_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=2qldBuuj4CcAX8qw3B4&_nc_ht=scontent.fblr8-1.fna&oh=6d4b3c6f926aad0f4555a7e44f408f97&oe=6095713E"/>
+            <Avatar className="ml-auto" url="https://photos.app.goo.gl/L5Brzj3RdnXkYhaL6"/>
             </div>
             {/* Header option */}
             <HeaderOptions/>
