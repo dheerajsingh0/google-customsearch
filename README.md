@@ -34,3 +34,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # google-customsearch
 # google-customsearch  made with nextjs,tailwindcss with google customsearch api
+
+
+
+copyright 2021
+developed by @ https://github.com/dheerajsingh0
